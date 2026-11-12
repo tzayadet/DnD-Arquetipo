@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/INTERACTIVE_QUIZ-D%26D_ARCHETYPE-101010?style=for-the-badge&labelColor=050805&color=00FF41" alt="D&D Archetype"/>
+  <img src="https://img.shields.io/badge/WEB_APP-JAVASCRIPT-101010?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/>
+</p>
+
 # D&D Archetype
 
-An interactive character assessment inspired by Dungeons & Dragons. The questionnaire maps answers across six dimensions and presents an archetype from thirteen possible classes.
+Interactive character assessment inspired by Dungeons & Dragons. The questionnaire maps answers across six dimensions and presents an archetype from thirteen possible classes.
 
 <p align="center">
-  <a href="https://tzayadet.github.io/DnD-Arquetipo/"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN-00a86b?style=flat-square" alt="Live demo"></a>
-  <a href="https://github.com/tzayadet/DnD-Arquetipo"><img src="https://img.shields.io/badge/SOURCE-GITHUB-161b22?style=flat-square&logo=github" alt="Source"></a>
+  <a href="https://tzayadet.github.io/DnD-Arquetipo/"><strong>LIVE DEMO ↗</strong></a> ·
+  <a href="https://github.com/tzayadet/DnD-Arquetipo"><strong>SOURCE CODE</strong></a>
 </p>
 
 ## Features
@@ -32,7 +37,7 @@ The server listens locally on port 8080. The GitHub Pages demo is static and doe
 
 ## Project structure
 
-The interactive frontend and the Java experiment are separate components. The published experience does not imply that the Java backend is hosted or connected.
+The interactive frontend and Java experiment are separate components. The published experience does not imply that the Java backend is hosted or connected.
 
 ## Scope
 
